@@ -85,7 +85,7 @@ def create_trainer_button(trainer_name, link):
     st.markdown(f'<a href="{link}" target="_blank"><button style="background-color:#4CAF50; color:white; padding:10px; border:none; border-radius:4px; cursor:pointer;">Chat with {trainer_name}</button></a>', unsafe_allow_html=True)
 
 # Streamlit app
-st.title("Chat with Groq-powered Assistant")
+st.title("AI with ChatShala")
 
 # Input text box for user question
 user_input = st.text_input("What do you want to know?", "")
