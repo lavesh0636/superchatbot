@@ -1,9 +1,10 @@
+streamlit
+numpy
 phidata
 groq
-numpy
 faiss-cpu
 python-dotenv
 sentence-transformers
-pymysql
-supabase-py 
 pandas
+requests
+openai
